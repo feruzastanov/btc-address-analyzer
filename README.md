@@ -7,17 +7,20 @@ A modern web application for analyzing relationships between Bitcoin addresses a
 ## Features
 
 - **Address Relationship Analysis**
+
   - Compare two Bitcoin addresses
   - View shared transaction history
   - Analyze total exchanged value
   - Track confirmation status
 
 - **Real-time BTC Price Tracking**
+
   - Live price updates
   - 7-day price history chart
   - BTC to USD calculator
 
 - **Comprehensive Transaction Data**
+
   - Transaction hash lookup
   - Confirmation status
   - Amount tracking
@@ -49,17 +52,20 @@ A modern web application for analyzing relationships between Bitcoin addresses a
 ### Installation
 
 1. Clone the repository:
+
 ```bash
-git clone https://github.com/yourusername/bitcoin-address-analyzer.git
+git clone https://github.com/feruzastanov/btc-address-analyzer.git
 cd bitcoin-address-analyzer
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -92,14 +98,10 @@ The application uses two main APIs:
 ## Contributing
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch (`git checkout -b feature/ExampleFeature`)
+3. Commit your changes (`git commit -m 'Add some ExampleFeature'`)
+4. Push to the branch (`git push origin feature/ExampleFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -111,6 +113,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://github.com/yourusername/bitcoin-address-analyzer](https://github.com/yourusername/bitcoin-address-analyzer)
+Project Link: [https://github.com/feruzastanov/btc-address-analyzer.git](https://github.com/feruzastanov/btc-address-analyzer.git)
