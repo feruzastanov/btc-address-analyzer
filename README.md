@@ -63,8 +63,16 @@ cd btcanalyzer
 ```bash
 npm install
 ```
+3. Add ".env" file in the root folder of the application
 
-3. Start the development server:
+4. Add your "Blockcypher" API token to your ".env" file as it is shown below:
+
+```bash
+VITE_BLOCKCYPHER_TOKEN=<insertYourTokenHere>
+```
+Save the changes
+
+5. Start the development server:
 
 ```bash
 npm run dev
