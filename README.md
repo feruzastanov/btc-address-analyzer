@@ -55,7 +55,7 @@ A modern web application for analyzing relationships between Bitcoin addresses a
 
 ```bash
 git clone https://github.com/feruzastanov/btc-address-analyzer.git
-cd bitcoin-address-analyzer
+cd btcanalyzer
 ```
 
 2. Install dependencies:
